@@ -3,3 +3,4 @@ a tool that can track an ip just sign up i ipstack.com which is free  now when y
 
 disclaimer - use it legally not illegally
 ipstack link = www.ipstack.com
+Just sign up and go to dashboard you.wll get your API Key
